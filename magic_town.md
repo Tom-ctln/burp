@@ -41,7 +41,7 @@ ssh guest@magic-town
 # Mot de passe : Bl4Ck_L07u5_N3rd
 ```
 
-🎉 **1er Flag accessible**
+🎉 **1er Flag obtenu**
 
 ## 4. Escalade de privilèges via Tar depuis hacker
 
@@ -56,7 +56,7 @@ Cela crée un fichier zip avec les droits de l'utilisateur `hacker`.
 
 Ensuite, on dézippe le fichier pour obtenir la flag avec les permimission guest.
 
-🎉 **2ème Flag accessible**
+🎉 **2ème Flag obtenu**
 
 ## 5. Exploitation des vulnérabilités de tar
 
@@ -96,4 +96,4 @@ Et voilà, on est **root sur la machine** !
 
 ---
 
-🎉 **3ème Flag accessible** depuis le système de fichiers root !
+🎉 **3ème Flag obtenu** depuis le système de fichiers root !

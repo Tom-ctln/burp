@@ -73,7 +73,7 @@ Une fois dans le shell, on se connecte à nouveau en tant que `badeline` avec :
 su badeline
 # Password: Raptorsensei
 ```
-🎉 **1er Flag accessible**
+🎉 **1er Flag obtenu**
 
 
 On remarque qu’on peut renommer un dossier système et créer un dossier du même nom contenant un fichier `backup.sh`.
@@ -89,6 +89,5 @@ On attend ou déclenche l’exécution automatique de `backup.sh`.
 
 Résultat : le flag root est copié dans un fichier lisible ! 🎉
 
+🎉 **2ème Flag obtenu**
 ---
-
-🎉 **2ème Flag accessible**
