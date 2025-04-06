@@ -96,4 +96,4 @@ Et voilà, on est **root sur la machine** !
 
 ---
 
-🎉 **33eme Flag accessible** depuis le système de fichiers root !
+🎉 **3ème Flag accessible** depuis le système de fichiers root !
