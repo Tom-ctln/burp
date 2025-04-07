@@ -30,7 +30,7 @@ On accède au dashboard administrateur.
 
 ## 3. Reverse Shell via Upload d'image
 
-On remplace une image uploadée par un fichier `shell.php`. Celui-ci contient un payload codé en base64 :
+On remplace une image uploadée par un fichier `shell.php` :
 
 
 ``` php
